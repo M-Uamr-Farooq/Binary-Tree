@@ -58,6 +58,7 @@ int main() {
     bt.insert(18);
 
     // Add code to traverse and print the tree if needed
+    cout<<"tree implemented"<<endl;
 
     return 0;
 }
