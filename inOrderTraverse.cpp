@@ -36,7 +36,7 @@ Node *buildTree(Node *root)
     return root;
 }
 
-        
+         
 
 int main()
 {
