@@ -19,7 +19,7 @@ Node* buildTree(Node* root) {
     cout << "Enter data (-1 for NULL): ";
     int data;
     cin >> data;
-
+    
     if (data == -1) {
         return NULL;
     }
